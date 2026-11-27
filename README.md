@@ -63,7 +63,7 @@ That covers the obvious path. It does **not** cover `grep -r` across the folder,
 | **3. Secure the app it built** | Open databases, missing auth, keys in the frontend bundle | 30 min | [guides/03-secure-the-app.md](guides/03-secure-the-app.md) + [prompts/](prompts/) |
 | **4. Plan for the leak** | Panic when a key does get out | read once | [guides/04-if-you-leaked.md](guides/04-if-you-leaked.md) |
 
-Start with layer 1 today. Do the rest before you put real users or real money behind the app.
+Layers 1 and 2 take about 20 minutes, start there today. Do the rest before you put real users or real money behind the app.
 
 ---
 
